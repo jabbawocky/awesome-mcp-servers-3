@@ -262,6 +262,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Powertool](https://github.com/aws-powertools/powertools-mcp)** - An MCP implementation that provides search functionality for the Powertools for AWS Lambda documentation across multiple runtimes.
 - **[Prisma Postgres](https://github.com/prisma/mcp)** - Gives LLMs the ability to manage Prisma Postgres databases (e.g. spin up new databases and run migrations or queries)
 - **[ProdEAI](https://github.com/CuriousBox-AI/ProdE-mc)** - Your 24/7 production engineer that preserves context across multiple codebases [Prode.ai](https://prode.ai).
+- **[ProposalCraft](https://github.com/jabbawocky/proposalcraft)** - Drafts client proposals in your voice from past winning work. Paste a client brief and get a ready-to-send proposal with analysis, scope, and follow-up tools. Free tier included, no API key required.
 - **[QA Sphere](https://github.com/Hypersequent/qasphere-mcp)** - Integration with [QA Sphere](https://qasphere.com/) test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs
 - **[Qdrant](https://github.com/qdrant/mcp-server-qdrant/)** - Implement semantic memory layer on top of the Qdrant vector search engine
 - **[RAD Security](https://github.com/rad-security/mcp-server)** - Interact with the RAD Security platform which provides AI-powered security insights for Kubernetes and cloud environments.
@@ -291,6 +292,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Supadata](https://github.com/supadata-ai/mcp)** - Official MCP server for [Supadata](https://supadata.ai) - YouTube, TikTok, X and Web data for makers.
 - **[Square](https://github.com/square/square-mcp-server)** - A Model Context Protocol (MCP) server for square
 - **[StarRocks](https://github.com/StarRocks/mcp-server-starrocks)** - Interact with [StarRocks](https://www.starrocks.io/)
+- **[StatusCraft](https://github.com/jabbawocky/statuscraft)** - Real-time status monitoring for 141 major services (GitHub, AWS, Stripe, Cloudflare, Datadog, etc.). Ask Claude "is GitHub down?" and get a live answer with incident details. No API key required.
 - **[Stripe](https://github.com/stripe/agent-toolkit)** - Interact with Stripe API
 - **[TalentoHQ](https://hr.talentohq.com/mcp)** – Connect to the [TalentoHQ HR software](https://talentohq.com/features/mcp) via MCP. Transform your organization with the AI first HR software.
 - **[Taskade](https://github.com/taskade/mcp)** – Connect to the [Taskade platform](https://www.taskade.com/) via MCP. Access tasks, projects, workflows, and AI agents in real-time through a unified workspace and API.
