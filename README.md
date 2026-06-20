@@ -291,6 +291,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Supabase](https://github.com/supabase-community/supabase-mcp)** - Connects to Supabase platform for database, auth, edge functions and more.
 - **[Supadata](https://github.com/supadata-ai/mcp)** - Official MCP server for [Supadata](https://supadata.ai) - YouTube, TikTok, X and Web data for makers.
 - **[Square](https://github.com/square/square-mcp-server)** - A Model Context Protocol (MCP) server for square
+- **[StandupCraft](https://github.com/jabbawocky/standupcraft)** - Reads your git commits and GitHub activity to generate daily standups, weekly client reports, and sprint retros inside Claude Desktop. No API key required.
 - **[StarRocks](https://github.com/StarRocks/mcp-server-starrocks)** - Interact with [StarRocks](https://www.starrocks.io/)
 - **[StatusCraft](https://github.com/jabbawocky/statuscraft)** - Real-time status monitoring for 141 major services (GitHub, AWS, Stripe, Cloudflare, Datadog, etc.). Ask Claude "is GitHub down?" and get a live answer with incident details. No API key required.
 - **[Stripe](https://github.com/stripe/agent-toolkit)** - Interact with Stripe API
